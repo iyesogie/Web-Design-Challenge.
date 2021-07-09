@@ -33,8 +33,6 @@ Uses a Bootstrap grid for the visualizations.
 The grid must be two visualizations across on screens medium and larger, and 1 across on extra-small and small screens.
 
 
-
-
 A "Data" page that:
 
 Displays a responsive table containing the data used in the visualizations.
